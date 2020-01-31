@@ -1,0 +1,6 @@
+{
+  "name": "polymer-3-crud",
+  "short_name": "polymer-3-crud",
+  "start_url": "/",
+  "display": "standalone"
+}

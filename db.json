@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "name": "mayank",
+      "job": "heeeyyyy",
+      "id": 4
+    },
+    {
+      "name": "krishna",
+      "job": "heellloo",
+      "id": 5
+    },
+    {
+      "name": "yash",
+      "job": "hiiiii",
+      "id": 6
+    }
+  ]
+}
